@@ -1,5 +1,5 @@
 baseURL: "https://blog.alifarhad.dev/"
-title: AliWites - a blog by alifarhad!
+title: alicodes - a blog by alifarhad!
 paginate: 5
 theme: PaperMod
 
@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: AliWites - a blog by alifarhad!
+  title: alicodes - a blog by alifarhad!
   description: "this is a blog managed and written by alifarhad. He uses this space to jot down anything that comes in his mind"
   keywords: [Blog, alifarhad, alifarhad557, alifarhad557@gmail.com, alifarhad.dev, fullstack developer, pakistan developer, pakistani freelancer, developer, blogger]
   author: alifarhad
@@ -73,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog. Here, you'll find a collection of my thoughts, tutorials, and projects related to coding.join me on this exciting journey of continuous learning and innovation. Happy coding! 💻
+    Content: Welcome to my blog. Here, you'll find a collection of my thoughts, tutorials, and projects related to coding. Join me on this exciting journey of continuous learning and innovation. Happy coding! 💻
 
   socialIcons:
     - name: x
