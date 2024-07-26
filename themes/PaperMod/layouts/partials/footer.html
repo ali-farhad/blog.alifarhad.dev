@@ -4,9 +4,10 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        <!-- {{ site.Title }} -->
+        <span>&copy; {{ now.Year }} made with ❤️ by  <a href="{{ "" | absLangURL }}">alifarhad</a></span>
         {{- end }}
-        {{- print " · "}}
+        {{- print "  "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}
@@ -15,7 +16,7 @@
     {{- end }}
 
     <span>
-        made with ❤️ &
+       ⚡by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
     </span>
 </footer>

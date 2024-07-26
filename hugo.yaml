@@ -73,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog. Here, you'll find a collection of my thoughts, tutorials, and projects related to coding. Join me on this exciting journey of continuous learning and innovation. Happy coding! 💻
+    Content: Welcome to my blog! Here, you'll find a collection of my thoughts, tuts & projects related to coding. Join me on this exciting journey of continuous learning and innovation. Happy coding! 💻
 
   socialIcons:
     - name: x
