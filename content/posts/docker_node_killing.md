@@ -1,7 +1,7 @@
 ---
 author: ["alifarhad"]
 
-title: "a case of immortal node container?"
+title: "A Case of Immortal Node Container?"
 
 date: "2024-07-27"
 

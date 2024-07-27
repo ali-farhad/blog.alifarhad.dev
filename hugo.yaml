@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: alicodes - a blog by alifarhad!
-  description: "this is a blog managed and written by alifarhad. He uses this space to jot down anything that comes in his mind"
+  description: "this is a blog managed and written by alifarhad. He uses this space to jot down anything that comes in his mind related to coding!"
   keywords: [Blog, alifarhad, alifarhad557, alifarhad557@gmail.com, alifarhad.dev, fullstack developer, pakistan developer, pakistani freelancer, developer, blogger]
   author: alifarhad
   # author: ["Me", "You"] # multiple authors
@@ -95,7 +95,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/ali-farhad/blog.alifarhad.dev/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
