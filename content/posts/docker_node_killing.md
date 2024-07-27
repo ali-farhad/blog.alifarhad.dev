@@ -34,7 +34,7 @@ Now, I know that it's pretty typical for us to simply `ctrl + c` out of containe
 
 ### Sample DockerFile
 
-```{hl_lines=[5,15]}
+```sh
 
 FROM node:10.15-alpine
 
