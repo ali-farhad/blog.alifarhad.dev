@@ -76,7 +76,7 @@ CMD ["node", "index.js"]
 
 ### command to create the container
 
-`docker build -t oldnodeapp .'
+`docker build -t oldnodeapp .`
 
 ### command to run the container
 
