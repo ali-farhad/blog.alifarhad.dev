@@ -3,7 +3,7 @@ author: ["alifarhad"]
 
 title: "Dockerizing an old node app"
 
-date: "2024-01-08"
+date: "2024-08-01"
 
 description: "Dockerizing old node apps is quite fun when you know what you are doing!"
 
