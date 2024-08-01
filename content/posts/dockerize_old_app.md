@@ -11,7 +11,7 @@ summary: "Dockerizing old node apps is quite fun when you know what you are doin
 
 tags: ["docker", "node", "dockerize", "Dockerfile"]
 
-categories: ["docker", "node", "DockerFile]
+categories: ["docker", "node", "DockerFile"]
 
 series: ["docker guide"]
 
