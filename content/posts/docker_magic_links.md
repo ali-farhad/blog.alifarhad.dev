@@ -3,7 +3,7 @@ author: ["alifarhad"]
 
 title: "how to access docker containers with pretty urls locally?"
 
-date: "2024-09-08"
+date: "2024-08-09"
 
 description: "when running multiple Docker containers, you can access them all using pretty URLS"
 
