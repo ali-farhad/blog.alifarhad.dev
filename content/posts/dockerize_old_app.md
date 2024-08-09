@@ -3,7 +3,7 @@ author: ["alifarhad"]
 
 title: "Dockerizing an old node app"
 
-date: "2024-01-08"
+date: "2024-08-01"
 
 description: "Dockerizing old node apps is quite fun when you know what you are doing!"
 
@@ -11,7 +11,7 @@ summary: "Dockerizing old node apps is quite fun when you know what you are doin
 
 tags: ["docker", "node", "dockerize", "Dockerfile"]
 
-categories: ["docker", "node", "DockerFile]
+categories: ["docker", "node", "DockerFile"]
 
 series: ["docker guide"]
 
@@ -76,7 +76,7 @@ CMD ["node", "index.js"]
 
 ### command to create the container
 
-`docker build -t oldnodeapp .'
+`docker build -t oldnodeapp .`
 
 ### command to run the container
 
