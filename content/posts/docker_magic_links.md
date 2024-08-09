@@ -11,7 +11,7 @@ summary: "when running multiple Docker containers, you can access them all using
 
 tags: ["docker", "node", "dockerize", "Dockerfile", "docker networking"]
 
-categories: ["docker", "node", "DockerFile]
+categories: ["docker", "node", "DockerFile"]
 
 series: ["docker guide"]
 
