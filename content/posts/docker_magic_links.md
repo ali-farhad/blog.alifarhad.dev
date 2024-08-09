@@ -58,6 +58,6 @@ services:
 
 ### Explanation
 
-so this `docker compose` uses a 3rd party image that's built on top of `nginx` to automtically configure pretty URLS. when this script runs, it starts 3 containers, where the 1st is the setup container and the rest of the 2 containers can be accessed using their respective `Virtual Host1 adresses. this uses reverse proxy configruation built on top of `nginx` webserver.
+so this `docker compose` uses a 3rd party image that's built on top of `nginx` to automtically configure pretty URLS. when this script runs, it starts 3 containers, where the 1st is the setup container and the rest of the 2 containers can be accessed using their respective `Virtual Host` adresses. this uses reverse proxy configruation built on top of `nginx` webserver.
 
 that's it for now! Happy Pretty URL-ing your containers!
