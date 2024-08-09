@@ -7,9 +7,9 @@ date: "2024-09-08"
 
 description: "when running multiple Docker containers, you can access them all using pretty URLS"
 
-summary: "hen running multiple Docker containers, you can access them all using pretty URLS"
+summary: "when running multiple Docker containers, you can access them all using pretty URLS"
 
-tags: ["docker", "node", "dockerize", "Dockerfile", "docker networking']
+tags: ["docker", "node", "dockerize", "Dockerfile", "docker networking"]
 
 categories: ["docker", "node", "DockerFile]
 
