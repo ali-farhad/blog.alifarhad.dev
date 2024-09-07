@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on alicodes - a blog by alifarhad!</title>
+    <link>https://blog.alifarhad.dev/tags/</link>
+    <description>Recent content in Tags on alicodes - a blog by alifarhad!</description>
+    <image>
+      <title>alicodes - a blog by alifarhad!</title>
+      <url>https://blog.alifarhad.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.alifarhad.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.alifarhad.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Queries</title>
+      <link>https://blog.alifarhad.dev/tags/custom-queries/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/custom-queries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>https://blog.alifarhad.dev/tags/wordpress/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress Theme Development</title>
+      <link>https://blog.alifarhad.dev/tags/wordpress-theme-development/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/wordpress-theme-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://blog.alifarhad.dev/tags/docker/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker Networking</title>
+      <link>https://blog.alifarhad.dev/tags/docker-networking/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/docker-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dockerfile</title>
+      <link>https://blog.alifarhad.dev/tags/dockerfile/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/dockerfile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dockerize</title>
+      <link>https://blog.alifarhad.dev/tags/dockerize/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/dockerize/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>https://blog.alifarhad.dev/tags/node/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tini</title>
+      <link>https://blog.alifarhad.dev/tags/tini/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/tini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://blog.alifarhad.dev/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://blog.alifarhad.dev/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://blog.alifarhad.dev/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://blog.alifarhad.dev/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://blog.alifarhad.dev/tags/code/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gist</title>
+      <link>https://blog.alifarhad.dev/tags/gist/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/gist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://blog.alifarhad.dev/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://blog.alifarhad.dev/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://blog.alifarhad.dev/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.alifarhad.dev/tags/syntax/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
