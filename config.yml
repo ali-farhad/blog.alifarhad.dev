@@ -6,6 +6,9 @@ copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-Pap
 paginate: 5
 theme: [hugo-PaperMod]
 
+ignoreErrors:
+  - error-remote-getjson
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
