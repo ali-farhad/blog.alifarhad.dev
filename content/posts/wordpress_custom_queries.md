@@ -13,15 +13,17 @@ TocOpen: false
 
 ### Understanding WordPress Custom Queries
 
-WordPress custom queries allow you to fetch specific data from your WordPress database, beyond the default behavior. This is particularly useful when you want to display posts or pages based on custom criteria, such as posts from a specific category, posts by a particular author, or even custom post types.
+WordPress custom queries allow us to fetch specific data from usr WordPress database, beyond the default behavior. This is particularly useful when we want to display posts or pages based on custom criteria, such as posts from a specific category, posts by a particular author, or even custom post types.
+
+Imagine we have got a custom html page setup as usr home or `front-page` or wordpress site. now, user styling may allow the users to peek into blog entries and show 2 latest blog enerties styled nicely on the front page. if you want to connect your wordpress DB to show latest blog entries on that page, you will need to make use of custom query.Custom query allows us to fetch data on-demand from various parts of wordpress, and plug it into "view" or "pages" across entire site.
 
 ### What is a Query in WordPress?
 
-A query in WordPress is a request to the database for specific information. By default, WordPress runs a query to fetch posts and pages to display them according to your theme's settings. However, you can customize these queries to suit your needs.
+A query in WordPress is a request to the database for specific information. By default, WordPress runs a query to fetch posts and pages to display them according to default theme's settings. However, we can customize these queries to suit our needs.
 
 ### Why Use Custom Queries?
 
-Custom queries are useful when you need to:
+Custom queries are useful when we need to:
 
 - Display posts from a specific category.
 - Show posts by a particular author.
@@ -30,7 +32,7 @@ Custom queries are useful when you need to:
 
 ### Using WP_Query
 
-The `WP_Query` class in WordPress allows you to create custom queries. Here’s a basic code example:
+The `WP_Query` class in WordPress allows us to create custom queries. Here’s a basic code example:
 
 ```php
 <?php
