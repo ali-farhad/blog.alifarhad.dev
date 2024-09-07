@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DockerFile on alicodes - a blog by alifarhad!</title>
+    <link>http://localhost:1313/categories/dockerfile/</link>
+    <description>Recent content in DockerFile on alicodes - a blog by alifarhad!</description>
+    <image>
+      <title>alicodes - a blog by alifarhad!</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/dockerfile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how to access docker containers with pretty urls locally?</title>
+      <link>http://localhost:1313/posts/docker_magic_links/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/docker_magic_links/</guid>
+      <description>when running multiple Docker containers, you can access them all using pretty URLS</description>
+    </item>
+    <item>
+      <title>Dockerizing an old node app</title>
+      <link>http://localhost:1313/posts/dockerize_old_app/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dockerize_old_app/</guid>
+      <description>Dockerizing old node apps is quite fun when you know what you are doing!</description>
+    </item>
+  </channel>
+</rss>

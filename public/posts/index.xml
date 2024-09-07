@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are WordPress Custom Queries?</title>
+      <link>http://localhost:1313/posts/wtf/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wtf/</guid>
+      <description>Custom Queries in WordPress Unlock True Power of Custom WordPress Web Development</description>
+    </item>
+    <item>
+      <title>how to access docker containers with pretty urls locally?</title>
+      <link>http://localhost:1313/posts/docker_magic_links/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/docker_magic_links/</guid>
+      <description>when running multiple Docker containers, you can access them all using pretty URLS</description>
+    </item>
+    <item>
+      <title>Dockerizing an old node app</title>
+      <link>http://localhost:1313/posts/dockerize_old_app/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dockerize_old_app/</guid>
+      <description>Dockerizing old node apps is quite fun when you know what you are doing!</description>
+    </item>
     <item>
       <title>A Case of Immortal Node Container?</title>
       <link>http://localhost:1313/posts/docker_node_killing/</link>
@@ -47,13 +68,6 @@
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
     </item>
   </channel>
 </rss>

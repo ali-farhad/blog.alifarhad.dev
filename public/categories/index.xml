@@ -11,19 +11,33 @@
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress</title>
+      <link>http://localhost:1313/categories/wordpress/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/wordpress/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Docker</title>
       <link>http://localhost:1313/categories/docker/</link>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DockerFile</title>
+      <link>http://localhost:1313/categories/dockerfile/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dockerfile/</guid>
       <description></description>
     </item>
     <item>
       <title>Node</title>
       <link>http://localhost:1313/categories/node/</link>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/node/</guid>
       <description></description>
     </item>
