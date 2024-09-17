@@ -2,8 +2,8 @@
 author: ["alifarhad"]
 title: "How to Add Custom Fields to Custom Post Types with ACF in Wordpress?"
 date: "2024-09-17"
-description: "Learn how to enhance your WordPress site by adding custom fields to custom post types using the Advanced Custom Fields (ACF) plugin. This guide provides step-by-step instructions and code examples to help you set up and display custom field data on the frontend. Perfect for both beginners and experienced users."
-summary: "Learn how to enhance your WordPress site by adding custom fields to custom post types using the Advanced Custom Fields (ACF) plugin. This guide provides step-by-step instructions and code examples to help you set up and display custom field data on the frontend. Perfect for both beginners and experienced users."
+description: "Learn how to enhance your WordPress site by adding custom fields to custom post types using the Advanced Custom Fields (ACF) plugin."
+summary: "Learn how to enhance your WordPress site by adding custom fields to custom post types using the Advanced Custom Fields (ACF) plugin."
 tags: ["WordPress", "Custom Fields", "Wordpress Theme Development"]
 categories: ["WordPress"]
 series: ["Wordpress Theme Development"]
