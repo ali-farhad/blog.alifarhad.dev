@@ -11,8 +11,6 @@ ShowToc: true
 TocOpen: false
 ---
 
-# How to Add Custom Fields in WordPress Attached to Custom Post Type
-
 ## Introduction
 
 Custom fields in WordPress allow you to add additional metadata to your posts, pages, or custom post types.This can be incredibly useful for adding extra information to your content. In this tutorial, we'll walk you through how to add custom fields to a custom post type using the Advanced Custom Fields (ACF) plugin and how to display that data on the frontend.
