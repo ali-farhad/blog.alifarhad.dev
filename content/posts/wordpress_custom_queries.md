@@ -24,6 +24,7 @@ A query in WordPress is a request to the database for specific information. By d
 ### Why Use Custom Queries?
 
 Custom queries are useful when we need to:
+Custom queries are useful when we need to:
 
 - Display posts from a specific category.
 - Show posts by a particular author.
